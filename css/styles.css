@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(to right,#f4bf11 , rgb(18, 229, 176));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+
+ 
+}
+
+#title {
+    font-size: 75px;
+    font-family:"Fascinate Inline";
+    border-style: groove;
+    border-radius: 10px;
+    background: white;
+    text-align: center;
+    width: fit-content;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lists {
+    font-size: 30px;
+    border-style:groove;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: red;
+    padding: 30px;
+    list-style:none;
+    width: fit-content;
+    background: green;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+    background: fixed;
+}
