@@ -5,8 +5,8 @@ body {
 }
 
 h1 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 30px;
+    font-family: 'Nerko One', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
     border-style: groove;
     background: white;
     width: fit-content;
@@ -24,8 +24,8 @@ img {
 }
 
 h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 50px;
+    font-family: 'Nerko One', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
     text-align: center;
     border-style: double;
     border-radius: 10px;
